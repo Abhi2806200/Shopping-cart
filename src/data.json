@@ -1,0 +1,54 @@
+  
+{
+  "products": [
+    {
+      "_id": "seat cover 0",
+      "image": "/images/image 1.jpg",
+      "title": "3D Custom PU Leather Car Seat Covers For Maruti Swift",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. our universal brand is here for you, and comes in all our ranges: Created by us, styled by you.",
+      "availableSizes": ["swift", "AltoK10", "Celerio", "Baleno"],
+      "price": 5000
+    },
+    {
+      "_id": "seat cover 1",
+      "image": "/images/image 2.jpg",
+      "title": "Custom-fit Leatherette 3D Car Seat Covers",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. our universal brand is here for you, and comes in all our ranges: Created by us, styled by you.",
+      "availableSizes": ["i20", "Verna", "Santro"],
+      "price": 4599
+    },
+    {
+      "_id": "seat cover 2",
+      "image": "/images/image 6.jpg",
+      "title": "KVD Superior Leather Luxury Car Seat Cover ",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. our universal brand is here for you, and comes in all our  ranges: Created by us, styled by you.",
+      "availableSizes": ["Maruti 800", "Toyota", "Brezza"],
+      "price": 3999
+    },
+    {
+      "_id": "seat cover 3",
+      "image": "/images/image 3.jpg",
+      "title": "3D Custom PU Leather Car Seat Covers",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. our universal brand is here for you, and comes in all our ranges: Created by us, styled by you.",
+      "availableSizes": ["Fortuner","Creta","Venu"],
+      "price": 3000
+    },
+    {
+      "_id": "seat cover 4",
+      "image": "/images/image 4.jpg",
+      "title": "Custom-fit Leatherette 3D Car Seat Covers",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. our universal brand is here for you, and comes in all our ranges: Created by us, styled by you.",
+      "availableSizes": ["Tata Nexon", "Tata Tiago", "Tata Altroz"],
+      "price": 4500
+    },
+    {
+      "_id": "seat cover 5",
+      "image": "/images/image 5.jpg",
+      "title": "Seat Cover Front and Back Car Seat Covers Set",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. our universal brand is here for you, and comes in all our ranges: Created by us, styled by you.",
+      "availableSizes": ["Fortuner", "XUV500" ,"Harrier","Compass"],
+      "price": 5999
+    }
+  ]
+}
+
